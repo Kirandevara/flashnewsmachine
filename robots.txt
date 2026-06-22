@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://kirandevara.github.io/flashnewsmachine/sitemap.xml
